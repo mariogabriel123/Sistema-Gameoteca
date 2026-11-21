@@ -38,8 +38,6 @@ Fluxo: **Tela > Controle > Regras > Banco**.
 
 Cada empréstimo liga um usuário a um jogo e guarda as datas de retirada, previsão de devolução e devolução. Um usuário e um jogo podem aparecer em vários empréstimos ao longo do tempo.
 
-[Abrir o diagrama em PDF](docs/diagrama-basico.pdf).
-
 ## Regras
 
 O administrador gerencia usuários, jogos e devoluções. Membros consultam jogos ativos, solicitam para si e acompanham seus empréstimos. Mídias físicas têm prazo de sete dias. Acesso local registra o uso nas estações da ludoteca e deve ser encerrado no mesmo dia; o programa não instala nem transfere jogos.
