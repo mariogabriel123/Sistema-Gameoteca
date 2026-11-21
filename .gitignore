@@ -1,0 +1,8 @@
+/target/
+/dados/
+*.db
+*.db-shm
+*.db-wal
+*.log
+/.vscode/
+/nbproject/private/
